@@ -72,3 +72,8 @@ CREATE TABLE visits (
     date_of_visit DATE,
     PRIMARY KEY (id)
 );
+
+-- FIFTH PART --
+
+-- Add an email column to the owners table
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
