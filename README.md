@@ -31,7 +31,7 @@
 
 # 📖 Vet Clinic <a name="about-project"></a>
 
-**Vet Clinic** is a structured repository for animal-related data within a veterinary clinic. It includes an "animals" table with information on treated animals. Each row in the table presents details like name, birth date, escape attempts, neutering, and weight. The database facilitates efficient tracking and retrieval of animal information through SQL queries, aiding care management and operational efficiency in the clinic.
+**Vet Clinic** is a structured repository for animal-related data within a veterinary clinic. It includes an "animals" table with information on treated animals. Each row in the table presents details like name, birth date, escape attempts, neutering, and weight. The database facilitates efficient animal information tracking and retrieval through SQL queries, aiding care management and operational efficiency in the clinic.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,6 +49,9 @@
 - **Relational Databases**
 - **SQL tables**
 - **SQL syntax and queries**
+- **Query and update animals table**
+- **Query multiple tables**
+- **Database performance audit**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,7 +59,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+If you would like to get a local copy up and running, please follow these steps.
 
 ### Prerequisites
 
@@ -80,11 +83,18 @@ Clone this repository to your desired folder:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author**
+👤 **Sergio Usma**
 
 - GitHub: [@sergio-usma](https://github.com/sergio-usma)
 - Twitter: [@VonUsma](https://twitter.com/vonusma)
 - LinkedIn: [Sergio Andres Usma](https://www.linkedin.com/in/sergiousma/)
+
+👤 **Ali Baba Hussaini**
+
+- GitHub: [@Alibaba2023](https://github.com/Alibaba2023)
+- Twitter: [@AliBabaHu2023](https://twitter.com/AliBabaHu2023)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-baba-hussaini-630607267/)
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,10 +102,8 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **Query and update animals table**
-- [ ] **Query multiple tables**
-- [ ] **Database performance audit**
+- [ ] **UI/UX**
+- [ ] **Interaction with the frontend**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +129,7 @@ If you like this project, please consider supporting us! Your support helps us t
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for this amazing opportunity to learn with them and for the support they give me to make this possible.
+I want to thank Microverse for this amazing opportunity to learn with them and for the support they give me to make this possible.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
